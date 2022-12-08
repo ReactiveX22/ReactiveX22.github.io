@@ -2,7 +2,7 @@
 title: Hello ReactiveX22
 date: 
 categories: [app,web]
-tags: []
+tags: [typesnotes]
 ---
 
 ## Welcome
