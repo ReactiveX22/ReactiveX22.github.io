@@ -1,11 +1,11 @@
 ---
 title: Hello ReactiveX22
-date: 
+date: date
 categories: [app,web]
 tags: [typesnotes]
 ---
 
-## Welcome
+# Welcome
 
 Hello welcome to my website.
 
