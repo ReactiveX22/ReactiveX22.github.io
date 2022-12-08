@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/ReactiveX22/ReactiveX22.github.io/blob/main/assets/img/reactivex22_avatar.png
+avatar: https://raw.githubusercontent.com/ReactiveX22/ReactiveX22.github.io/main/assets/img/reactivex22_avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
