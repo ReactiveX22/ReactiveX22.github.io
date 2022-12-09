@@ -29,6 +29,9 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ReactiveX22.github.io'
 
+plugins:
+  - jekyll-sitemap
+
 github:
   username: ReactiveX22             # change to your github username
 
