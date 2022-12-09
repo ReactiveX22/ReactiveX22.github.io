@@ -2,7 +2,7 @@
 layout: post
 title: My First Flutter App
 date: '2022-12-08 23:38:15 +0600'
-categories: [App, MyNotesApp]
+categories: [Apps, MyNotesApp]
 tags: [app]
 ---
 

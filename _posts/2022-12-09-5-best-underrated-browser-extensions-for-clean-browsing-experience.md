@@ -2,6 +2,8 @@
 layout: post
 title: 5 Best Underrated Browser Extensions for Clean Browsing Experience
 date: '2022-12-09 16:25:25 +0600'
+categories: [Windows, Extensions]
+tags: [extensions]
 ---
 When you install an extension, it adds a little program to the toolbar of your Chrome Web Browser. Once enabled, extensions change how your web browser functions to accomplish a particular task. The functionality of the majority of extensions is universal, meaning it works with any website you visit in Google Chrome. The Chrome Web Store is always being updated with new Chrome extensions that can be beneficial to users in a variety of ways. This article focuses on **5 best underrated extensions for a clean Browsing Experience.**
 
