@@ -5,10 +5,12 @@ source "https://rubygems.org"
 gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.2"
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
-gem 'jekyll-sitemap', group: [:jekyll_plugins]
-
 group :test do
   gem "html-proofer", "~> 3.18"
+end
+
+group :jekyll_plugins do
+  gem 'jekyll-sitemap'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
