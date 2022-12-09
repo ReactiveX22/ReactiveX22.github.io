@@ -243,6 +243,31 @@ img[data-src] {
     font-size: 0.9rem;
   }
 }
+//ads reactivex22
+.ads {
+  top: 2rem;
+  transition: top 0.2s ease-in-out;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+
+  &:only-child {
+    position: -webkit-sticky;
+    position: sticky;
+  }
+
+  > div {
+    padding-left: 2rem;
+    //border-left: 1px solid var(--main-border-color);
+
+    &:not(:last-child) {
+      margin-bottom: 4rem;
+    }
+  }
+
+  .post-content {
+    font-size: 0.9rem;
+  }
+}
 
 #panel-wrapper {
   /* the headings */
