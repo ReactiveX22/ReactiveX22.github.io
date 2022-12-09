@@ -6,7 +6,7 @@ categories: [App, MyNotes]
 tags: [app]
 ---
 
-{% include ad.html %}
+{% include sqrDisplayAds.html %}
 
 I made a note taking app using flutter. Currently I have published android and web version of the app.
 
