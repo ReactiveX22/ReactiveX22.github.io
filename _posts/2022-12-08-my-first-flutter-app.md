@@ -25,5 +25,3 @@ I made a note taking app using flutter. Currently I have published android and w
 **Link:** <https://youtu.be/VPvVD8t02U8>
 
 Course developed by **Vandad Nahavandipoor**.
-
-{% include sqrDisplayAds.html %}
