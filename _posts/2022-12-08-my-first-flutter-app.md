@@ -2,11 +2,11 @@
 layout: post
 title: My First Flutter App
 date: '2022-12-08 23:38:15 +0600'
-categories: [App, MyNotes]
+categories: [App, MyNotesApp]
 tags: [app]
 ---
 
-{% include sqrDisplayAds.html %}
+
 
 I made a note taking app using flutter. Currently I have published android and web version of the app.
 
@@ -25,3 +25,5 @@ I made a note taking app using flutter. Currently I have published android and w
 **Link:** <https://youtu.be/VPvVD8t02U8>
 
 Course developed by **Vandad Nahavandipoor**.
+
+{% include sqrDisplayAds.html %}
