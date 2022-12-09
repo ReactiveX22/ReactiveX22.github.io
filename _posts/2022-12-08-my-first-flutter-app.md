@@ -6,6 +6,8 @@ categories: [App, MyNotes]
 tags: [app]
 ---
 
+{% include ad.html %}
+
 I made a note taking app using flutter. Currently I have published android and web version of the app.
 
 ### Download APK For Android
