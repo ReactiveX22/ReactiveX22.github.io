@@ -2,13 +2,13 @@
 layout: post
 title: CCleaner vs Bleachbit Comparing the Pros and Cons of Two Popular Cleaning Tools
 date: '2022-12-10 12:41:20 +0600'
-categories: [Apps]
+categories: [Windows, Apps]
 tags: [ccleaner, bleachbit, windows, macos, linux]
 ---
 
-With time and usage, your computer accumulates a huge number of caches and temporary files. A lot of unnecessary files and background programs make matters worse.
-
 ![Computer Junk Files](/assets/img/post-imgs/retro-computer-junk.png)
+
+With time and usage, your computer accumulates a huge number of caches and temporary files. A lot of unnecessary files and background programs make matters worse.
 
 ### What Are Junk Files
 
