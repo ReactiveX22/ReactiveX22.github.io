@@ -8,6 +8,8 @@ tags: [pc, gameplay]
 
 ![Hades](https://switchplayer.net/wp-content/uploads/2020/09/H2x1_NSwitchDS_Hades_image1600w.png)
 
+[Get it from Steam](https://store.steampowered.com/app/1145360/Hades/){:target="_blank"}
+
 Hades is a popular action role-playing game developed by Supergiant Games. In this game, players take on the role of Zagreus, the son of the Greek god Hades, as he attempts to escape from the underworld and defeat his father.
 
 The gameplay of Hades revolves around a combination of fast-paced combat and roguelike elements. Players must navigate through randomly generated levels, fighting various enemies and bosses along the way. As they progress, they can unlock new abilities and weapons that will help them in their journey.
