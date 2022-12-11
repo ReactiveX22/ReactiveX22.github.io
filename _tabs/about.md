@@ -9,6 +9,6 @@ order: 4
 
 {: style="text-align: center;"}
 
-## Hello :) 
+## Hello :relaxed:
 
-Welcome to my website. I share various types of programming related knowledge that I acquire from my learning journey.
+Welcome to my personal website, where I share what I learn as I explore the world of programming. My articles cover a wide range of topics, from the basics of coding to more advanced concepts. As a beginner, I share my perspective and experiences with others who are just starting out in the field. Join me on my journey of learning and discovery, and let's learn together! 

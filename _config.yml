@@ -21,15 +21,16 @@ timezone: Asia/Dhaka
 
 title: ReactiveX22                          # the main title
 
-tagline: Home for ReactiveX22   # it will display as the sub-title
+tagline: Exploring the world of programming, learning and sharing together    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  ReactiveX22 Github Page 
+  Welcome to my personal website, where I share what I learn as I explore the world of programming. My articles cover a wide range of topics, from the basics of coding to more advanced concepts. As a beginner, I share my perspective and experiences with others who are just starting out in the field. Join me on my journey of learning and discovery, and let's learn together! 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ReactiveX22.github.io'
 plugins:
   - jekyll-sitemap
+  - jemoji
 
 github:
   username: ReactiveX22             # change to your github username

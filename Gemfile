@@ -8,6 +8,8 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 
 gem "jekyll-sitemap"
 
+gem 'jemoji', '~> 0.13.0'
+
 group :test do
   gem "html-proofer", "~> 3.18"
 end
