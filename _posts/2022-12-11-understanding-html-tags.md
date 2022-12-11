@@ -96,10 +96,58 @@ When the button is clicked, the JavaScript function `myFunction()` will be execu
 
 ### Here is a list of some common HTML tags and their usage
 
-<table style="word-wrap"><colgroup>
-<col width="20%" />
-<col width="80%" />
-</colgroup><thead><tr><th>Tag</th><th>Usage</th></tr></thead><tbody><tr><td><code>&lt;html&gt;</code></td><td>The main container for all the content on a webpage. Tells the web browser that the document is written in HTML, and encloses all the other HTML elements on the page.</td></tr><tr><td><code>&lt;head&gt;</code></td><td>Contains the metadata for a webpage, such as the title, keywords, and stylesheets.</td></tr><tr><td><code>&lt;title&gt;</code></td><td>Specifies the title of a webpage, which is displayed in the title bar of the web browser.</td></tr><tr><td><code>&lt;body&gt;</code></td><td>Contains the main content of a webpage, such as text, images, videos, and other multimedia elements.</td></tr><tr><td><code>&lt;h1&gt;-&lt;h6&gt;</code></td><td>Used to create headings of different sizes, with <code>&lt;h1&gt;</code> being the largest and <code>&lt;h6&gt;</code> being the smallest. Organizes and structures the content of a webpage.</td></tr><tr><td><code>&lt;p&gt;</code></td><td>Used to create a paragraph of text. Often used to contain long blocks of text, and can be used in conjunction with other HTML elements to add emphasis or structure.</td></tr><tr><td><code>&lt;img&gt;</code></td><td>Inserts an image onto a webpage. Requires a <code>src</code> attribute, which specifies the location of the image file, as well as optional <code>alt</code> and <code>title</code> attributes.</td></tr><tr><td><code>&lt;a&gt;</code></td><td>Used to create a hyperlink to another webpage. Requires an <code>href</code> attribute, which specifies the URL of the target webpage, as well as anchor text.</td></tr><tr><td><code>&lt;ul&gt;</code></td><td>Used to create an unordered list, in which the items are displayed with bullet points.</td></tr><tr><td><code>&lt;ol&gt;</code></td><td>Used to create an ordered list, in which the items are displayed with numbers or letters.</td></tr><tr><td><code>&lt;li&gt;</code></td><td>Used to create an individual item within a list.</td></tr><tr><td><code>&lt;button&gt;</code></td><td>Used to create a clickable button on a webpage. Can be used to trigger an action, such as submitting a form, opening a new page, or running a JavaScript function.</td></tr></tbody></table>
+<center>
+<table>
+    <thead>
+        <tr>
+            <th>Tag</th>
+            <th>Usage</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code>&lt;html&gt;</code></td>
+            <td>Defines the root element of an HTML document.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;head&gt;</code></td>
+            <td>Defines information about the document, such as the title and scripts.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;body&gt;</code></td>
+            <td>Defines the main content of the document.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;h1&gt;</code></td>
+            <td>Defines the most important heading of the document.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;p&gt;</code></td>
+            <td>Defines a paragraph of text.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;a&gt;</code></td>
+            <td>Defines a hyperlink to another web page or resource.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;img&gt;</code></td>
+            <td>Defines an image.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;div&gt;</code></td>
+            <td>Defines a section of the document.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;table&gt;</code></td>
+            <td>Defines a table for displaying data.</td>
+        </tr>
+        <tr>
+            <td><code>&lt;form&gt;</code></td>
+            <td>Defines a form for user input.</td>
+        </tr>
+    </tbody>
+</table>
+</center>
 
 These are just a few examples of the many different HTML tags that are available. There are many more tags that can be used to add additional functionality and features to a webpage.
 
